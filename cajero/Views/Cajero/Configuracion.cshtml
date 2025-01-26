@@ -1,0 +1,30 @@
+﻿@model Application.ViewModels.ConfiguracionViewModel
+@{
+    ViewData["Title"] = "Modo Dispensacion";
+}
+<div class="row">
+    <div class="col-4 offset-4">
+        <div class="card">
+            <div class="card-header bg-primary text-light">
+                <strong>Configuracion</strong>
+            </div>
+            <div class="card-body">
+                <form method="post" asp-controller="Cajero" asp-action="configuracion">
+                    <div class="mb-3">
+                        <label asp-for="modoconfiguracion" class="form-label">Modo de Dispensacion:</label>
+                        <select class="form-select" asp-for="modoconfiguracion">
+                            <option value="1">200 y 1000</option>
+                            <option value="2">100 y 500</option>
+                            <option value="3" selected>Eficiente</option>
+                        </select>
+
+                    </div>
+                    <div>
+                        <button type="submit" class="btn btn-outline-primary float-end">Save</button>
+                        <a asp-controller="Market" asp-action="Index" class="btn btn-outline-warning float-end me-2">Back to home</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

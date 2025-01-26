@@ -1,0 +1,11 @@
+C:\Users\rmont\OneDrive\Documentos\ITLA\octavo cuatrimestre\p2\cajero\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\rmont\OneDrive\Documentos\ITLA\octavo cuatrimestre\p2\cajero\Application\bin\Debug\net8.0\Application.dll
+C:\Users\rmont\OneDrive\Documentos\ITLA\octavo cuatrimestre\p2\cajero\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\rmont\OneDrive\Documentos\ITLA\octavo cuatrimestre\p2\cajero\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmont\OneDrive\Documentos\ITLA\octavo cuatrimestre\p2\cajero\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\rmont\OneDrive\Documentos\ITLA\octavo cuatrimestre\p2\cajero\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\rmont\OneDrive\Documentos\ITLA\octavo cuatrimestre\p2\cajero\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\rmont\OneDrive\Documentos\ITLA\octavo cuatrimestre\p2\cajero\Application\obj\Debug\net8.0\Application.dll
+C:\Users\rmont\OneDrive\Documentos\ITLA\octavo cuatrimestre\p2\cajero\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\rmont\OneDrive\Documentos\ITLA\octavo cuatrimestre\p2\cajero\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\rmont\OneDrive\Documentos\ITLA\octavo cuatrimestre\p2\cajero\Application\obj\Debug\net8.0\ref\Application.dll
